@@ -10,11 +10,10 @@
     </author>
     
     <content src="index.html" />
-<preference name="windows-target-version" value="10.0" />
     
-    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="cordova-plugin-whitelist"  />
     
-    <plugin name="onesignal-cordova-plugin" spec="^2.4.5" />
+    <plugin name="onesignal-cordova-plugin"  />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
